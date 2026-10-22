@@ -1,0 +1,15 @@
+{
+  "name": "Chronostasis",
+  "short_name": "Chronostasis",
+  "description": "The world didn't end. It paused. A time-warping action game.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "fullscreen",
+  "orientation": "landscape",
+  "background_color": "#04060b",
+  "theme_color": "#04060b",
+  "icons": [
+    {"src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable"}
+  ]
+}
